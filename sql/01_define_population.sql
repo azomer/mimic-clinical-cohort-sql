@@ -1,0 +1,2 @@
+-- Define study population
+-- Adult ICU patients with required baseline data
