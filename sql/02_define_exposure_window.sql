@@ -1,10 +1,6 @@
 -- Define exposure window
 -- Early ICU exposure window (e.g., first 24 hours)
 -- Time-weighted physiologic measurements
--- Define exposure window
--- Early ICU exposure window (e.g., first 24 hours)
--- Time-weighted physiologic measurements
-
 /*
 Purpose:
 Define an early ICU exposure window to support time-based
