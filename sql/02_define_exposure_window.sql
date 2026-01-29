@@ -1,0 +1,3 @@
+-- Define exposure window
+-- Early ICU exposure window (e.g., first 24 hours)
+-- Time-weighted physiologic measurements
