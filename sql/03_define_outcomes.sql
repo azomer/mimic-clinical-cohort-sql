@@ -1,9 +1,6 @@
 -- Define outcomes
 -- Outcome definitions and timing windows
 -- Example: acute events within defined post-exposure windows
--- Define outcomes
--- Outcome definitions and timing windows
--- Example: acute events within defined post-exposure windows
 
 /*
 Purpose:
