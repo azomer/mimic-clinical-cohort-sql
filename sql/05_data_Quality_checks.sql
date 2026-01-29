@@ -1,0 +1,4 @@
+-- Data quality checks
+-- Identify missing or incomplete records
+-- Detect duplicate inflation due to joins
+-- Validate temporal consistency of clinical events
