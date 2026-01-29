@@ -1,8 +1,5 @@
 -- Define study population
 -- Adult ICU patients with required baseline data
--- Define study population
--- Adult ICU patients with required baseline data
-
 /*
 Purpose:
 Identify the base adult ICU population suitable for downstream
