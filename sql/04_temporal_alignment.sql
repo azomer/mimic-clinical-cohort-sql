@@ -1,0 +1,3 @@
+-- Temporal alignment
+-- Ensure exposure window precedes outcome window
+-- Handle timing logic to avoid immortal time bias
